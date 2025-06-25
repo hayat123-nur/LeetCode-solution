@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hayat123-nur/test1/tree/master/1354-find-players-with-zero-or-one-losses) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/hayat123-nur/test1/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/hayat123-nur/test1/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
