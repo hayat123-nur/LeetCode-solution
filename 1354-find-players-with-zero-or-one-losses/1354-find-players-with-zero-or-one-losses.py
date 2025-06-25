@@ -9,7 +9,6 @@ class Solution(object):
         losses = defaultdict(int)
         players = set()
 
-    # Count losses for each player
         for winner, loser in matches:
            losses[loser] += 1
            players.add(winner)
