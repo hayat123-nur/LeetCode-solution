@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hayat123-nur/test1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hayat123-nur/test1/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hayat123-nur/test1/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/hayat123-nur/test1/tree/master/0349-intersection-of-two-arrays) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hayat123-nur/test1/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/hayat123-nur/test1/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Hash Table
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hayat123-nur/test1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hayat123-nur/test1/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hayat123-nur/test1/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/hayat123-nur/test1/tree/master/0349-intersection-of-two-arrays) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hayat123-nur/test1/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Math
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/hayat123-nur/test1/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/hayat123-nur/test1/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hayat123-nur/test1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hayat123-nur/test1/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hayat123-nur/test1/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/hayat123-nur/test1/tree/master/0349-intersection-of-two-arrays) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hayat123-nur/test1/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Counting
 |  |
@@ -52,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/hayat123-nur/test1/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/hayat123-nur/test1/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
