@@ -5,8 +5,6 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        # a=[i,j]
-        # print'nums' if nums[i]==nums[j] and (i*j)/k else print'no pair exist' 
         n=len(nums)
         a=0
         for i in range(n):
