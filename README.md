@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hayat123-nur/test1/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hayat123-nur/test1/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/hayat123-nur/test1/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/hayat123-nur/test1/tree/master/0561-array-partition) |
 | [0981-delete-columns-to-make-sorted](https://github.com/hayat123-nur/test1/tree/master/0981-delete-columns-to-make-sorted) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hayat123-nur/test1/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/hayat123-nur/test1/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hayat123-nur/test1/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hayat123-nur/test1/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/hayat123-nur/test1/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/hayat123-nur/test1/tree/master/0561-array-partition) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hayat123-nur/test1/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Counting
 |  |
@@ -69,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hayat123-nur/test1/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/hayat123-nur/test1/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/hayat123-nur/test1/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
