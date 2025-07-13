@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hayat123-nur/test1/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/hayat123-nur/test1/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2502-sort-the-people](https://github.com/hayat123-nur/test1/tree/master/2502-sort-the-people) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/hayat123-nur/test1/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/hayat123-nur/test1/tree/master/0561-array-partition) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hayat123-nur/test1/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2502-sort-the-people](https://github.com/hayat123-nur/test1/tree/master/2502-sort-the-people) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/hayat123-nur/test1/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Counting
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/hayat123-nur/test1/tree/master/0506-relative-ranks) |
+## Matrix
+|  |
+| ------- |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/hayat123-nur/test1/tree/master/2631-sort-the-students-by-their-kth-score) |
 <!---LeetCode Topics End-->
