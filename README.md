@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/hayat123-nur/test1/tree/master/0981-delete-columns-to-make-sorted) |
 | [1217-relative-sort-array](https://github.com/hayat123-nur/test1/tree/master/1217-relative-sort-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hayat123-nur/test1/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hayat123-nur/test1/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/hayat123-nur/test1/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/hayat123-nur/test1/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2502-sort-the-people](https://github.com/hayat123-nur/test1/tree/master/2502-sort-the-people) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/hayat123-nur/test1/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1217-relative-sort-array](https://github.com/hayat123-nur/test1/tree/master/1217-relative-sort-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hayat123-nur/test1/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hayat123-nur/test1/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2502-sort-the-people](https://github.com/hayat123-nur/test1/tree/master/2502-sort-the-people) |
 ## Math
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/hayat123-nur/test1/tree/master/0561-array-partition) |
 | [1217-relative-sort-array](https://github.com/hayat123-nur/test1/tree/master/1217-relative-sort-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hayat123-nur/test1/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hayat123-nur/test1/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/hayat123-nur/test1/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1970-sorting-the-sentence](https://github.com/hayat123-nur/test1/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/hayat123-nur/test1/tree/master/2502-sort-the-people) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/hayat123-nur/test1/tree/master/0561-array-partition) |
 | [1217-relative-sort-array](https://github.com/hayat123-nur/test1/tree/master/1217-relative-sort-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hayat123-nur/test1/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
