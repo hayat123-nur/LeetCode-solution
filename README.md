@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/hayat123-nur/test1/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/hayat123-nur/test1/tree/master/0561-array-partition) |
 | [0822-unique-morse-code-words](https://github.com/hayat123-nur/test1/tree/master/0822-unique-morse-code-words) |
+| [0898-transpose-matrix](https://github.com/hayat123-nur/test1/tree/master/0898-transpose-matrix) |
 | [0981-delete-columns-to-make-sorted](https://github.com/hayat123-nur/test1/tree/master/0981-delete-columns-to-make-sorted) |
 | [1217-relative-sort-array](https://github.com/hayat123-nur/test1/tree/master/1217-relative-sort-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hayat123-nur/test1/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -117,5 +118,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/hayat123-nur/test1/tree/master/0898-transpose-matrix) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/hayat123-nur/test1/tree/master/2631-sort-the-students-by-their-kth-score) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/hayat123-nur/test1/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
