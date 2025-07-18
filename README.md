@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hayat123-nur/test1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hayat123-nur/test1/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/hayat123-nur/test1/tree/master/0414-third-maximum-number) |
+| [0500-keyboard-row](https://github.com/hayat123-nur/test1/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/hayat123-nur/test1/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/hayat123-nur/test1/tree/master/0561-array-partition) |
 | [0981-delete-columns-to-make-sorted](https://github.com/hayat123-nur/test1/tree/master/0981-delete-columns-to-make-sorted) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hayat123-nur/test1/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hayat123-nur/test1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hayat123-nur/test1/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0500-keyboard-row](https://github.com/hayat123-nur/test1/tree/master/0500-keyboard-row) |
 | [1217-relative-sort-array](https://github.com/hayat123-nur/test1/tree/master/1217-relative-sort-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hayat123-nur/test1/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hayat123-nur/test1/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/hayat123-nur/test1/tree/master/0344-reverse-string) |
+| [0500-keyboard-row](https://github.com/hayat123-nur/test1/tree/master/0500-keyboard-row) |
 | [0981-delete-columns-to-make-sorted](https://github.com/hayat123-nur/test1/tree/master/0981-delete-columns-to-make-sorted) |
 | [1970-sorting-the-sentence](https://github.com/hayat123-nur/test1/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/hayat123-nur/test1/tree/master/2502-sort-the-people) |
