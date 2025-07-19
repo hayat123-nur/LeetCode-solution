@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hayat123-nur/test1/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hayat123-nur/test1/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/hayat123-nur/test1/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hayat123-nur/test1/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/hayat123-nur/test1/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2502-sort-the-people](https://github.com/hayat123-nur/test1/tree/master/2502-sort-the-people) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/hayat123-nur/test1/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0661-image-smoother](https://github.com/hayat123-nur/test1/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/hayat123-nur/test1/tree/master/0898-transpose-matrix) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hayat123-nur/test1/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/hayat123-nur/test1/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Simulation
 |  |
