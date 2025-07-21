@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hayat123-nur/test1/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/hayat123-nur/test1/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/hayat123-nur/test1/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/hayat123-nur/test1/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/hayat123-nur/test1/tree/master/0169-majority-element) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/hayat123-nur/test1/tree/master/0054-spiral-matrix) |
 | [0661-image-smoother](https://github.com/hayat123-nur/test1/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/hayat123-nur/test1/tree/master/0898-transpose-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hayat123-nur/test1/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -127,5 +129,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/hayat123-nur/test1/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/hayat123-nur/test1/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
