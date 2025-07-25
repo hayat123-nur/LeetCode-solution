@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hayat123-nur/test1/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hayat123-nur/test1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/hayat123-nur/test1/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hayat123-nur/test1/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hayat123-nur/test1/tree/master/0268-missing-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hayat123-nur/test1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/hayat123-nur/test1/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/hayat123-nur/test1/tree/master/0500-keyboard-row) |
 | [0822-unique-morse-code-words](https://github.com/hayat123-nur/test1/tree/master/0822-unique-morse-code-words) |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/hayat123-nur/test1/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/hayat123-nur/test1/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/hayat123-nur/test1/tree/master/0898-transpose-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hayat123-nur/test1/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
