@@ -53,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/hayat123-nur/test1/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/hayat123-nur/test1/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hayat123-nur/test1/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hayat123-nur/test1/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/hayat123-nur/test1/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hayat123-nur/test1/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hayat123-nur/test1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hayat123-nur/test1/tree/master/0350-intersection-of-two-arrays-ii) |
