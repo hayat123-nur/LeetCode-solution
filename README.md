@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/hayat123-nur/test1/tree/master/0981-delete-columns-to-make-sorted) |
 | [1217-relative-sort-array](https://github.com/hayat123-nur/test1/tree/master/1217-relative-sort-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hayat123-nur/test1/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1364-tuple-with-same-product](https://github.com/hayat123-nur/test1/tree/master/1364-tuple-with-same-product) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hayat123-nur/test1/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/hayat123-nur/test1/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hayat123-nur/test1/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/hayat123-nur/test1/tree/master/0822-unique-morse-code-words) |
 | [1217-relative-sort-array](https://github.com/hayat123-nur/test1/tree/master/1217-relative-sort-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hayat123-nur/test1/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1364-tuple-with-same-product](https://github.com/hayat123-nur/test1/tree/master/1364-tuple-with-same-product) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hayat123-nur/test1/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2502-sort-the-people](https://github.com/hayat123-nur/test1/tree/master/2502-sort-the-people) |
 ## Math
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/hayat123-nur/test1/tree/master/0169-majority-element) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/hayat123-nur/test1/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1364-tuple-with-same-product](https://github.com/hayat123-nur/test1/tree/master/1364-tuple-with-same-product) |
 ## Two Pointers
 |  |
 | ------- |
