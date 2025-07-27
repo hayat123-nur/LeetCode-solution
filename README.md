@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/hayat123-nur/test1/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/hayat123-nur/test1/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/hayat123-nur/test1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hayat123-nur/test1/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hayat123-nur/test1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/hayat123-nur/test1/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/hayat123-nur/test1/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/hayat123-nur/test1/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/hayat123-nur/test1/tree/master/0500-keyboard-row) |
 | [0822-unique-morse-code-words](https://github.com/hayat123-nur/test1/tree/master/0822-unique-morse-code-words) |
