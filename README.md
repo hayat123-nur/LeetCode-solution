@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hayat123-nur/test1/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/hayat123-nur/test1/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/hayat123-nur/test1/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/hayat123-nur/test1/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/hayat123-nur/test1/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/hayat123-nur/test1/tree/master/0136-single-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/hayat123-nur/test1/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/hayat123-nur/test1/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hayat123-nur/test1/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hayat123-nur/test1/tree/master/0268-missing-number) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/hayat123-nur/test1/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/hayat123-nur/test1/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/hayat123-nur/test1/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/hayat123-nur/test1/tree/master/0661-image-smoother) |
