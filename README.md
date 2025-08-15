@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/hayat123-nur/test1/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/hayat123-nur/test1/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hayat123-nur/test1/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/hayat123-nur/test1/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hayat123-nur/test1/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hayat123-nur/test1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hayat123-nur/test1/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/hayat123-nur/test1/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/hayat123-nur/test1/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/hayat123-nur/test1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hayat123-nur/test1/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/hayat123-nur/test1/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/hayat123-nur/test1/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/hayat123-nur/test1/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/hayat123-nur/test1/tree/master/0917-boats-to-save-people) |
