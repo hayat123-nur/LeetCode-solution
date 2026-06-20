@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/hayat123-nur/test1/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hayat123-nur/test1/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/hayat123-nur/test1/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hayat123-nur/test1/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/hayat123-nur/test1/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hayat123-nur/test1/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/hayat123-nur/test1/tree/master/0633-sum-of-square-numbers) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hayat123-nur/test1/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
