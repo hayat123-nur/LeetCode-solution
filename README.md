@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hayat123-nur/test1/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/hayat123-nur/test1/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/hayat123-nur/test1/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/hayat123-nur/test1/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/hayat123-nur/test1/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/hayat123-nur/test1/tree/master/0066-plus-one) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hayat123-nur/test1/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/hayat123-nur/test1/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hayat123-nur/test1/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hayat123-nur/test1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/hayat123-nur/test1/tree/master/0268-missing-number) |
