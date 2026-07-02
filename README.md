@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/hayat123-nur/test1/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/hayat123-nur/test1/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/hayat123-nur/test1/tree/master/0661-image-smoother) |
+| [0704-binary-search](https://github.com/hayat123-nur/test1/tree/master/0704-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/hayat123-nur/test1/tree/master/0822-unique-morse-code-words) |
 | [0898-transpose-matrix](https://github.com/hayat123-nur/test1/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/hayat123-nur/test1/tree/master/0917-boats-to-save-people) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hayat123-nur/test1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hayat123-nur/test1/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/hayat123-nur/test1/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/hayat123-nur/test1/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
