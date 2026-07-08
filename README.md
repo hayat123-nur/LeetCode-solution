@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hayat123-nur/test1/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hayat123-nur/test1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hayat123-nur/test1/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0406-queue-reconstruction-by-height](https://github.com/hayat123-nur/test1/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/hayat123-nur/test1/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/hayat123-nur/test1/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/hayat123-nur/test1/tree/master/0498-diagonal-traverse) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hayat123-nur/test1/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hayat123-nur/test1/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hayat123-nur/test1/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0406-queue-reconstruction-by-height](https://github.com/hayat123-nur/test1/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/hayat123-nur/test1/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/hayat123-nur/test1/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/hayat123-nur/test1/tree/master/0506-relative-ranks) |
@@ -211,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/hayat123-nur/test1/tree/master/0278-first-bad-version) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/hayat123-nur/test1/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/hayat123-nur/test1/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
