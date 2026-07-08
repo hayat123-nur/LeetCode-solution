@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/hayat123-nur/test1/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/hayat123-nur/test1/tree/master/0704-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/hayat123-nur/test1/tree/master/0822-unique-morse-code-words) |
+| [0860-lemonade-change](https://github.com/hayat123-nur/test1/tree/master/0860-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/hayat123-nur/test1/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/hayat123-nur/test1/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/hayat123-nur/test1/tree/master/0941-sort-array-by-parity) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/hayat123-nur/test1/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/hayat123-nur/test1/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/hayat123-nur/test1/tree/master/0768-partition-labels) |
+| [0860-lemonade-change](https://github.com/hayat123-nur/test1/tree/master/0860-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/hayat123-nur/test1/tree/master/0917-boats-to-save-people) |
 ## Counting Sort
 |  |
