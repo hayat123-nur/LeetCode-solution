@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/hayat123-nur/test1/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/hayat123-nur/test1/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/hayat123-nur/test1/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/hayat123-nur/test1/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/hayat123-nur/test1/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/hayat123-nur/test1/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/hayat123-nur/test1/tree/master/0704-binary-search) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/hayat123-nur/test1/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hayat123-nur/test1/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/hayat123-nur/test1/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/hayat123-nur/test1/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/hayat123-nur/test1/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/hayat123-nur/test1/tree/master/0768-partition-labels) |
 | [0860-lemonade-change](https://github.com/hayat123-nur/test1/tree/master/0860-lemonade-change) |
