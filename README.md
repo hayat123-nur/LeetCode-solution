@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/hayat123-nur/test1/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hayat123-nur/test1/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/hayat123-nur/test1/tree/master/0633-sum-of-square-numbers) |
+| [1323-maximum-69-number](https://github.com/hayat123-nur/test1/tree/master/1323-maximum-69-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hayat123-nur/test1/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/hayat123-nur/test1/tree/master/0768-partition-labels) |
 | [0860-lemonade-change](https://github.com/hayat123-nur/test1/tree/master/0860-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/hayat123-nur/test1/tree/master/0917-boats-to-save-people) |
+| [1323-maximum-69-number](https://github.com/hayat123-nur/test1/tree/master/1323-maximum-69-number) |
 ## Counting Sort
 |  |
 | ------- |
