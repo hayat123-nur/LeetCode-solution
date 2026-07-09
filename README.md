@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/hayat123-nur/test1/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/hayat123-nur/test1/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/hayat123-nur/test1/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/hayat123-nur/test1/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hayat123-nur/test1/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/hayat123-nur/test1/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/hayat123-nur/test1/tree/master/0500-keyboard-row) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/hayat123-nur/test1/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/hayat123-nur/test1/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/hayat123-nur/test1/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/hayat123-nur/test1/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hayat123-nur/test1/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/hayat123-nur/test1/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/hayat123-nur/test1/tree/master/0561-array-partition) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/hayat123-nur/test1/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hayat123-nur/test1/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/hayat123-nur/test1/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/hayat123-nur/test1/tree/master/0680-valid-palindrome-ii) |
@@ -221,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/hayat123-nur/test1/tree/master/0406-queue-reconstruction-by-height) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/hayat123-nur/test1/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
